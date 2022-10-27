@@ -1,2 +1,3 @@
 # shovan
-Shovan Roy Portfolio
+Shovan Roy portfolio
+Studying Master of Science in Computer Science
